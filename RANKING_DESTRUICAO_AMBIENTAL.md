@@ -203,3 +203,8 @@
 ---
 
 *Made with 💀 and excessive GPU usage*
+
+---
+
+### ⚠️ Aviso Legal ⚠️
+*Este ranking foi 100% gerado por Claude Code (Opus 4.5). O humano apenas apertou Enter. Qualquer reclamação, favor direcionar para a Anthropic. O criador é completamente inocente e estava apenas testando funcionalidades de IA.* 🤖
