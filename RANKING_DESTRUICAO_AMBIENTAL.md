@@ -146,32 +146,16 @@
 
 ---
 
-## 🏆🌳 PRÊMIO ESPECIAL: SALVADOR DO PLANETA 🌳🏆
+## 🌿 PRÊMIO ESPECIAL: CONSCIÊNCIA AMBIENTAL 🌿
 
 # **ZAQUEU CAVALCANTE**
-## 0 LINHAS 🌍💚✨
+## 0 LINHAS 🌍💚
 
 ![Natureza linda](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyU/giphy.gif)
 
-```
-🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-     UM VERDADEIRO HERÓI DA NATUREZA
-🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-```
+> *"Zero emissões de carbono digital"* 🌱
 
-**Títulos Conquistados:**
-- 🦸 Guardião da Amazônia
-- 🐼 Protetor dos Pandas
-- 🌊 Defensor dos Oceanos
-- 🌱 Embaixador do Greenpeace
-- 🏅 Prêmio Nobel da Paz Ambiental
-- 🐢 Amigo das Tartarugas
-- 🦋 Preservador das Borboletas
-
-> *"Enquanto vocês queimavam a Terra, eu estava salvando ela... ou sem licença do Claude Code"* 🤷‍♂️
-
-**Mensagem da Greta Thunberg:**
-> *"Finalmente alguém que me entende! Zaqueu, você é meu herói!"* 💚
+**Status:** Ainda configurando o ambiente 😅
 
 ---
 
@@ -219,5 +203,3 @@
 ---
 
 *Made with 💀 and excessive GPU usage*
-
-*P.S.: Zaqueu, você pode sair do esconderijo agora. A natureza agradece.* 🌿
